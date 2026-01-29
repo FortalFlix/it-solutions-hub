@@ -91,8 +91,8 @@ const Hero = () => {
             className="text-lg sm:text-xl text-muted-foreground max-w-2xl mb-8"
           >
             {t(
-              'Especialista em Cibersegurança, Analista SOC e Desenvolvedor Web. Transformando tecnologia em resultados concretos com segurança e inovação.',
-              'Cybersecurity Specialist, SOC Analyst and Web Developer. Transforming technology into concrete results with security and innovation.'
+              'Especialista em Cibersegurança, Analista SOC e Criação de Web Sites. Transformando tecnologia em resultados concretos com segurança e inovação.',
+              'Cybersecurity Specialist, SOC Analyst and Website Development. Transforming technology into concrete results with security and innovation.'
             )}
           </motion.p>
 
